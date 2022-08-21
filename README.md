@@ -23,7 +23,7 @@ The 'Schedule' section is where the confirmed schedule of each individual(it mea
 <br>
 <img src="https://github.com/zer0pacity/deep-work/blob/9f0ac1e9aa88b932770ff880086b2e53933dfa37/img/mp.PNG">
 The 'Major Progress' section is where you can see the overall progress of work initiated by various employees.
-<img src="https://github.com/zer0pacity/deep-work/blob/9f0ac1e9aa88b932770ff880086b2e53933dfa37/img/lb.png">
+<img src="https://github.com/zer0pacity/deep-work/blob/3767b04e752dd08e5e45a780871441a4b1bfeaf1/img/truelb.PNG">
 The 'Leaderboard' section is where you can see the leaderboard of employees, sorted by their 'score', which is gained by one by fulfilling a work.
 <br>
 'Preferences' section is not activated nor implemented as there is no useful options for users to manipulate.
